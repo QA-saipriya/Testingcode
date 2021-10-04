@@ -21,7 +21,7 @@ System.out.println("Total number of textbox available :"+ texts.size());
 List<WebElement> buttons = driver.findElements(By.tagName("button"));
 System.out.println("Total number of buttons available : "+ buttons.size());
 List<WebElement> images = driver.findElements(By.tagName("img"));
-System.out.println("Total number of images available :"+ images.size());
+System.out.println("Total number of images available are you ok:"+ images.size());
 
 
 
